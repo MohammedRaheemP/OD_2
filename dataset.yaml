@@ -1,0 +1,7 @@
+train: /content/drive/My Drive/Interview/EagleView/YOLO_v5x/dataset/images/train # train images (relative to 'path') 2100 images
+val: /content/drive/My Drive/Interview/EagleView/YOLO_v5x/dataset/images/val  # val images (relative to 'path') 139 images
+# Classes
+nc: 2  # number of classes
+names: ['person','car']  # class names
+
+
